@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: shantanuy/podinfo
-      tag: dev-hdtwcel9
+      tag: dev-gqkhcavb
     replicaCount: 1
     hpa:
       enabled: false
