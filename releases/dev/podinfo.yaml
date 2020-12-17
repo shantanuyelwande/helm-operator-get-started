@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: shantanuy/podinfo
-      tag: dev-gqkhcavb
+      tag: dev-tesykmsg
     replicaCount: 1
     hpa:
       enabled: false
